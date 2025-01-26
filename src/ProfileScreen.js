@@ -6,7 +6,7 @@ export default function ProfileScreen() {
     <ScrollView contentContainerStyle={styles.container}>
 
       <Image source={require('../assets/userImage.jpg')} style={styles.profileImage} />
-      <Text style={styles.name}>John Doe</Text>
+      <Text style={styles.name}>Hazel Kate L. Butlay</Text>
       <Text style={styles.jobTitle}>React Native Developer</Text>
       <View style={styles.statsContainer}>
         <View style={styles.stat}>

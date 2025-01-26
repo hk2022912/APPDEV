@@ -17,16 +17,17 @@
     },
     "android": {
       "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
+        "foregroundImage": "./assets/userImage.jpg",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.hk2022912.myapp"  
     },
     "web": {
       "favicon": "./assets/favicon.png"
     },
     "extra": {
       "eas": {
-        "projectId": "3d1ed194-63e1-433d-9f0a-a83e48dbef6e"
+        "projectId": "31a49130-b2b8-4294-90c3-0a545d911dc1"
       }
     }
   }
